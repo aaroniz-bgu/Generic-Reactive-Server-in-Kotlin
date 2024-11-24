@@ -31,3 +31,4 @@ bin/
 .idea/
 .idea/*
 /generic-server.iml
+/src/Main.kt
